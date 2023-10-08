@@ -1,0 +1,46 @@
+*{
+    font-family: Lato;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.head-whole{
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.10);
+}
+#head-title{
+    width: 708px;
+    height: 288px;
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    word-wrap: break-word;
+    margin-bottom: 32px;
+}
+#head-para{
+    width: 634px;
+    height: 90px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    word-wrap: break-word;
+    margin-bottom: 32px;
+}
+.head-info{
+    height: 850px;
+    max-width: 50%;
+    padding-left: 240px ;
+    padding-bottom: 147px;
+    padding-top: 197px;
+}
+.button{
+    background-color: #E55473;
+    padding: 20px 43px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+.head-pic{
+    max-width: 50%;
+    /* background-image: url("../Git Resources/flower-shop-assignment/Flower Asset/pngwing 10.png"); */
+}
